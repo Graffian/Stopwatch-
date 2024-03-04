@@ -1,0 +1,27 @@
+body {
+    font-size: 8px;
+    box-sizing: border-box;
+    margin:0;
+    background:linear-gradient(to right,red,white,#22DD22);
+}
+div{
+  white-space:nowrap;
+  font-size:90px;
+  margin-top:60%;
+  text-align:center;
+}
+span{
+  font-weight: 200%;
+}
+#start{
+  background-color:#22DD22;
+  margin-right:0;
+  margin-left:33%;
+}
+#stop{
+  background-color: red;
+}
+button{
+  margin-right:0;
+  padding:32px;
+}
