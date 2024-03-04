@@ -16,7 +16,7 @@ span{
 #start{
   background-color:#22DD22;
   margin-right:0;
-  margin-left:33%;
+  margin-left:25%;
 }
 #stop{
   background-color: red;
@@ -24,4 +24,7 @@ span{
 button{
   margin-right:0;
   padding:32px;
+}
+#reset{
+  background-color: blueviolet;
 }
